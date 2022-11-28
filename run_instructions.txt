@@ -1,0 +1,8 @@
+# install packages
+
+pip install -r requirements.txt
+
+# Do not run. It's still a project in development
+# run main.py
+
+python -m main.py
